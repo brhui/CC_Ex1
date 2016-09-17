@@ -38,7 +38,7 @@ triangle(25, 266, 175, 266, 100, 366);
 
 // This is the MIDDLE TRIANGLE  (Shape 4, Color 8)
 noStroke();
-fill(0, 164, 255, 50);
+fill(0, 164, 255, 127);
 triangle(200, 266, 125, 366, 275, 366);
 
 // This is the RIGHT TRIANGLE  (Shape 4, Color 7)
